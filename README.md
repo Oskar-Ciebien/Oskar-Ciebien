@@ -1,7 +1,7 @@
 ### Hi, my name is Oskar. Welcome to my GitHub Profile 👋
 
-💬 I’m currently a Final Year Student studying BSc in Computing in Software Development.
-🔭 Looking for employment after graduating in 2022.
+- 💬 I’m currently a Final Year Student studying BSc in Computing in Software Development.
+- 🔭 Looking for employment after graduating in 2022.
 
 <!--
 **Oskar-Ciebien/Oskar-Ciebien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
