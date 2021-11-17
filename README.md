@@ -2,6 +2,7 @@
 
 - 💬 I’m currently a Final Year Student studying BSc in Computing in Software Development.
 - 🔭 Looking for employment after graduating in 2022.
+- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/oskar-ciebien/).
 
 <!--
 **Oskar-Ciebien/Oskar-Ciebien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
