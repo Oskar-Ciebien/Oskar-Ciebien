@@ -4,6 +4,10 @@
 - 🔭 Looking for employment after graduating in 2022.
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/oskar-ciebien/).
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Oskar-Ciebien&count_private=true&show_icons=true&theme=tokyonight&border_radius=30&locale=en&border_color=133d91&icon_color=b34704&custom_title=My%20GitHub%20Statistics)
+
+
+
 <!--
 **Oskar-Ciebien/Oskar-Ciebien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
