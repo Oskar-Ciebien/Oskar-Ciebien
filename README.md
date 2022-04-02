@@ -11,7 +11,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oskar-Ciebien&layout=compact&count_private=true&show_icons=true&theme=tokyonight&border_radius=30&locale=en&border_color=133d91&icon_color=b34704" />
 </a>
 
-<br>
+<br><br>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOskar-Ciebien&count_bg=%2308235A&title_bg=%23460C59&icon=ibeacon.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=true)](https://hits.seeyoufarm.com)
 
 ***
 
