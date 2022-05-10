@@ -1,36 +1,73 @@
-### Hi, my name is Oskar. Welcome to my GitHub Profile 👋
+<div align="center">
+  <!-- Heading -->
+  <h1>
+    <!-- Wave Gif -->
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <!-- Text -->
+    Hello! Welcome to my GitHub Profile
+    <!-- Wave Gif -->
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  </h1>
+  
+  <br>
+  
+  <!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/oskar-ciebien/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  
+  <!-- Views Counter -->
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOskar-Ciebien&count_bg=%2308235A&title_bg=%23460C59&icon=ibeacon.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=true" width="18%"/>
+  </a>
+</div>
+
+<br>
+
+## About me
 
 - 💬 I’m currently a Final Year Student studying BSc in Computing in Software Development.
 - 🔭 Looking for employment after graduating in 2022.
-- 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/oskar-ciebien/).
 
-<a href="https://github.com/Oskar-Ciebien">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Oskar-Ciebien&count_private=true&show_icons=true&theme=tokyonight&border_radius=30&locale=en&border_color=133d91&icon_color=b34704&custom_title=My%20GitHub%20Statistics" />
-</a>
-<a href="https://github.com/Oskar-Ciebien">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oskar-Ciebien&layout=compact&count_private=true&show_icons=true&theme=tokyonight&border_radius=30&locale=en&border_color=133d91&icon_color=b34704" />
-</a>
+<br>
 
-<br><br>
+## My Statistics
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOskar-Ciebien&count_bg=%2308235A&title_bg=%23460C59&icon=ibeacon.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=true)](https://hits.seeyoufarm.com)
+<!-- GitHub Stats -->
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Oskar-Ciebien&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&stroke=DD0000" width="420px"/>
+  </a>
+  
+  <!-- Top Languages Stats -->
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oskar-Ciebien&layout=compact&count_private=true&show_icons=true&theme=tokyonight&locale=en&border_color=133d91&icon_color=b34704"/>
+  </a>
+</div>
 
-***
+<br>
 
-#### Credits
-[Badges](https://github.com/anuraghazra/github-readme-stats#github-stats-card)
+## Languages & Tools
 
-<!--
-**Oskar-Ciebien/Oskar-Ciebien** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="NPM" **alt="NPM" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="GitHub" **alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="CSharp" **alt="CSharp" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original-wordmark.svg" title="Heroku" **alt="Heroku" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupyter" **alt="Jupyter" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/markdown/markdown-original.svg" title="Markdown" **alt="Markdown" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original-wordmark.svg" title="Unity" **alt="Unity" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain-wordmark.svg" title="Ubuntu" **alt="Ubuntu" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="VSCode" **alt="VSCode" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain-wordmark.svg" title="Visual Studio" **alt="Visual Studio" width="40" height="40"/>&nbsp;
+</div>
