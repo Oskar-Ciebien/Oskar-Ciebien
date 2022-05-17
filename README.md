@@ -13,12 +13,12 @@
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/oskar-ciebien/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35px" width="150px"/>
   </a>
   
   <!-- Views Counter -->
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOskar-Ciebien&count_bg=%2308235A&title_bg=%23460C59&icon=ibeacon.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=true" width="18%"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOskar-Ciebien&count_bg=%2308235A&title_bg=%23460C59&icon=ibeacon.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=true" height="35px" width="180px"/>
   </a>
 </div>
 
@@ -36,12 +36,12 @@
 <!-- GitHub Stats -->
 <div align="center">
   <a href="https://git.io/streak-stats">
-    <img src="http://github-readme-streak-stats.herokuapp.com?user=Oskar-Ciebien&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&stroke=DD0000" width="420px"/>
+    <img src="http://github-readme-streak-stats.herokuapp.com?user=Oskar-Ciebien&theme=elegant&date_format=M%20j%5B%2C%20Y%5D&stroke=DD0000" height="195px" width="500px"/>
   </a>
   
   <!-- Top Languages Stats -->
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oskar-Ciebien&layout=compact&count_private=true&show_icons=true&theme=tokyonight&locale=en&border_color=133d91&icon_color=b34704"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Oskar-Ciebien&layout=compact&count_private=true&show_icons=true&theme=tokyonight&locale=en&border_color=133d91&icon_color=b34704" height="195px" width="500px"/>
   </a>
 </div>
 
