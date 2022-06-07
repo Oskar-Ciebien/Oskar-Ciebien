@@ -1,24 +1,20 @@
 <div align="center">
   <!-- Heading -->
   <h1>
-    <!-- Wave Gif -->
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
     <!-- Text -->
     Hello! Welcome to my GitHub Profile
-    <!-- Wave Gif -->
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   </h1>
   
   <br>
   
   <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/oskar-ciebien/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35px" width="150px"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30px" width="110px"/>
   </a>
   
   <!-- Views Counter -->
   <a href="https://hits.seeyoufarm.com">
-    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOskar-Ciebien&count_bg=%2308235A&title_bg=%23460C59&icon=ibeacon.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=true" height="35px" width="180px"/>
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FOskar-Ciebien&count_bg=%2308235A&title_bg=%23460C59&icon=ibeacon.svg&icon_color=%23FFFFFF&title=Visits&edge_flat=true" height="30px" width="150px"/>
   </a>
 </div>
 
@@ -26,8 +22,8 @@
 
 ## About me
 
-- 💬 I’m currently a Final Year Student studying BSc in Computing in Software Development.
-- 🔭 Looking for employment after graduating in 2022.
+- 💻 I'm currently a Graduate Software Engineer Intern at [Globalization Partners](https://www.globalization-partners.com/).
+- 🎓 I recently finished my BSc in Computing in Software Development at Atlantic Technological University.
 
 <br>
 
