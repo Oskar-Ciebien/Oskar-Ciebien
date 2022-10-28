@@ -22,7 +22,7 @@
 
 ## About me
 
-- 💻 I'm currently a Graduate Software Engineer Intern at [Globalization Partners](https://www.globalization-partners.com/).
+- 💻 I'm working at [G-P (Globalization Partners)](https://www.globalization-partners.com/) as an Associate Software Engineer.
 - 🎓 I recently finished my BSc in Computing in Software Development at Atlantic Technological University.
 
 <br>
