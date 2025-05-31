@@ -15,7 +15,7 @@
   </h1>
 
   <!-- My LinkedIn -->
-  <a href="https://www.linkedin.com/in/oskar-ciebien/">
+  <a href="https://www.linkedin.com/in/oskar-ciebien/" target="_blank">
     <img src="icons/LI-In-Bug.png" height="30" alt="LinkedIn Logo" />
   </a>
 
